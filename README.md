@@ -4,6 +4,8 @@ A curated list of Extjs resources.
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
+Contributions are welcomes. Add links through [pull requests](https://github.com/abenhamdine/awesome-extjs/pulls) or create an [issue](https://github.com/abenhamdine/awesome-extjs/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md)
+
 ## Official resources
 
 ### Blogs
