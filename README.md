@@ -6,13 +6,22 @@ A curated list of Extjs resources.
 
 Contributions are welcomes. Add links through [pull requests](https://github.com/abenhamdine/awesome-extjs/pulls) or create an [issue](https://github.com/abenhamdine/awesome-extjs/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md)
 
+## Table of Contents
+
+- [Official resources](#official-resources)
+- [Blogs](#Blogs)
+- [Tutorials, examples](#tutorials,-examples)
+- [Open sources projects using Extjs](#open-sources-projects-using-extjs)
+- [Commercial application using Extjs](#commercial-application-using-extjs)
+- [Extjs service providers](#extjs-service-providers)
+
 ## Official resources
 
 ### Blogs
 
 ### Tutorials, examples
 
-## Open sources projets using Extjs
+## Open sources projects using Extjs
 
 ## Commercial application using Extjs
 
