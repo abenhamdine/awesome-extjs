@@ -9,7 +9,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ## Last commercial version of Extjs : 6.5.1
 ## Last GPL version of Extjs : 6.2.0
 
-## Table of Contents
+## Contents
 
 - [Official resources](#official-resources)
 - [Blogs](#Blogs)
