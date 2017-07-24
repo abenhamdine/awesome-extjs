@@ -42,7 +42,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ## Extensions, components
 
-* [ExtDirect connector for nodejs]()
+* [nodejs.extdirect](https://github.com/jurisv/nodejs.extdirect) - A nodejs implementation of Ext Direct protocol
 * [ExtDirect connector for Java](https://github.com/ralscha/extdirectspring) - Implementation of the Ext Direct protocol with Java and Spring
 * [extjs-carto](https://github.com/CrestoneDigital/extjs-carto) - Components to interact with Carto map tools
 * [Connector to Angular2](https://github.com/mgusmano/angular2-extjs)
