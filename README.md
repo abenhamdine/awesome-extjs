@@ -43,7 +43,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 * [ext4all](https://ext4all.com/) - Exjs code snippets
 * [skirtlesden](http://skirtlesden.com/articles/) - Old (2014) but very good articles about Extjs
-* [senchatutorials](http://senchatutorials.in/)
+* [senchatutorials](http://senchatutorials.in/) - Step-by-step tutorials for Sencha Ext JS 4.x, 5.x, 6.x and Sencha Touch 2.x
 
 ## Extensions & components
 
