@@ -57,6 +57,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Ext.ux.ColorPicker](https://github.com/sw4/Ext.ux.ColorPicker) - A beautiful colorpicker
 * [Ext.ux.grid.Printer](https://github.com/Arhia/Ext.ux.grid.Printer) - An Extjs 5/6 Component to print grid content
 * [Exportable grid](https://github.com/yorl1n/ext.ExportableGrid) - Wrapper over ExtJs's grid to make grid exportable
+* [ExtJS-Grid-PDF-Exporter](https://github.com/shikhirsingh/ExtJS-Grid-PDF-Exporter) - Sample application to export grid content in pdf
 * [DateSlider component for Sencha Extjs](https://github.com/OhmzTech/extjs-dateslider) - A nice date slider
 * [Ace editor integration](https://github.com/cadorn/ace-extjs)
 * [Filebrowser component](https://github.com/revolunet/Ext.ux.filebrowser)
