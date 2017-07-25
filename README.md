@@ -62,6 +62,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Pdf viewer panel](https://github.com/SunboX/ext_ux_pdf_panel)
 * [Grid autosize column](http://reanimatter.com/2016/03/12/ext-js-grid-plugin-autosizing-columns-to-fit-content/)
 * [Nvd3 bindings](https://github.com/syslogic/extjs-nvd3-charts) - NVD3.js Bindings as Sencha ExtJS Package
+* [Chartsly](https://github.com/walkingtree/chartsly) - Stock Charts package based on Sencha Ext JS & Touch
 
 ### Icons, Themes
 
