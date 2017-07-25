@@ -72,7 +72,8 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ## Open sources projects using Extjs
 
 * [GeoExt](https://github.com/geoext/geoext3) - A JavaScript framework that combines the GIS functionality of OpenLayers with all features of the ExtJS library
-* [Jahia](https://github.com/Jahia) - Comprehensive and integrated open-source Java Digital Experience Platform 
+* [Jahia](https://github.com/Jahia) - Comprehensive and integrated open-source Java Digital Experience Platform
+* [DVelum](https://github.com/k-samuel/dvelum) - Professional PHP/ExtJS-based web development platform
 
 ## Commercial Software using Extjs
 
