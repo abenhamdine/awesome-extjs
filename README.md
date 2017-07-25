@@ -90,3 +90,4 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ## Books
 
 * [Ext JS Application Development Blueprints](https://www.packtpub.com/web-development/ext-js-application-development-blueprints)
+* [Sencha Charts Essentials](https://www.packtpub.com/web-development/sencha-charts-essentials)
