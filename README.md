@@ -91,5 +91,6 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ## Books
 
+* [Mastering ExtJs 2nd Edition](https://www.packtpub.com/web-development/mastering-ext-js-second-edition)
 * [Ext JS Application Development Blueprints](https://www.packtpub.com/web-development/ext-js-application-development-blueprints)
 * [Sencha Charts Essentials](https://www.packtpub.com/web-development/sencha-charts-essentials)
