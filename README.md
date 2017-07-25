@@ -37,6 +37,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Blog of Vladimir Popa](http://vadimpopa.com/) - A blog with some good articles about Extjs
 * [Anton Fisher's notes](https://antonfisher.com/) - Blog by a javascript developer (extjs, nodejs, bash)
 * [Blog of Modus Create](http://moduscreate.com/category/sencha/)
+* [Reanimatter](http://reanimatter.com/tag/ext-js/)
 
 ## Tutorials, examples
 
@@ -58,6 +59,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Ace editor integration](https://github.com/cadorn/ace-extjs)
 * [Filebrowser component](https://github.com/revolunet/Ext.ux.filebrowser)
 * [Pdf viewer panel](https://github.com/SunboX/ext_ux_pdf_panel)
+* [Grid autosize column](http://reanimatter.com/2016/03/12/ext-js-grid-plugin-autosizing-columns-to-fit-content/)
 
 ### Icons, Themes
 
