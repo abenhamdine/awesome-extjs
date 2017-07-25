@@ -79,6 +79,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [DVelum](https://github.com/dvelum/dvelum) - Professional PHP/ExtJS-based web development platform
 * [Rambox](https://github.com/saenzramiro/rambox) - Free and Open Source messaging and emailing app that combines common web applications into one.
 * [Lino](https://github.com/lino-framework/lino) - A web application framework using Django and ExtJS
+* [Koala](https://github.com/koala-framework/koala-framework) - Framework and CMS based on Zend Framework and ExtJS
 
 ## Commercial Software using Extjs
 
