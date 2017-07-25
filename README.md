@@ -60,6 +60,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Filebrowser component](https://github.com/revolunet/Ext.ux.filebrowser)
 * [Pdf viewer panel](https://github.com/SunboX/ext_ux_pdf_panel)
 * [Grid autosize column](http://reanimatter.com/2016/03/12/ext-js-grid-plugin-autosizing-columns-to-fit-content/)
+* [Nvd3 bindings](https://github.com/syslogic/extjs-nvd3-charts) - NVD3.js Bindings as Sencha ExtJS Package
 
 ### Icons, Themes
 
@@ -77,6 +78,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Jahia](https://github.com/Jahia) - Comprehensive and integrated open-source Java Digital Experience Platform
 * [DVelum](https://github.com/dvelum/dvelum) - Professional PHP/ExtJS-based web development platform
 * [Rambox](https://github.com/saenzramiro/rambox) - Free and Open Source messaging and emailing app that combines common web applications into one.
+* [Lino](https://github.com/lino-framework/lino) - A web application framework using Django and ExtJS
 
 ## Commercial Software using Extjs
 
