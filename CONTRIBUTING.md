@@ -12,11 +12,11 @@ You may add, edit, or request to remove:
 
 ### General conditions
 
-This is an attempt to make a curated list of useful resources for Sencha Extjs ecosystem.
+This is an attempt to make a curated list of useful resources for Sencha ExtJS ecosystem.
 
 - Submitting software:
   - Must either be free and open source, or have a note which explicitly states that the software is commercial. `(Commercial Software)` will do. Must have an acknowledged open source license to be exempt from the `(Commercial Software)` note requirement.
-- Do not include links to parts of official documentation. It's not useful as every extjs user knows where is this documentation.
+- Do not include links to parts of official documentation. It's not useful as every ExtJS user knows where is this documentation.
 - All resources provided must be free (as in free beer) and without commitment from the user (e.g. no requirement to enter personal details,  no requirement to login with social network ID, etc.)
 - The only exception being Newsletters, where an email address is required by definition. Newsletters are accepted under the condition that an email address is their *only requirement*.
 
