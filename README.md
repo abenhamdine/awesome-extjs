@@ -38,6 +38,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Anton Fisher's notes](https://antonfisher.com/) - Blog by a javascript developer (extjs, nodejs, bash)
 * [Blog of Modus Create](http://moduscreate.com/category/sencha/)
 * [Reanimatter](http://reanimatter.com/tag/ext-js/)
+* [existdissolve.com](http://existdissolve.com/) - A blog with a few articles about extjs
 
 ## Tutorials, examples
 
