@@ -39,6 +39,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Blog of Modus Create](http://moduscreate.com/category/sencha/)
 * [Reanimatter](http://reanimatter.com/tag/ext-js/)
 * [existdissolve.com](http://existdissolve.com/) - A blog with a few articles about extjs
+* [jorgeramon.me](http://jorgeramon.me/tag/extjs-tutorial/) - Some good articles about ExtJS
 
 ## Tutorials, examples
 
