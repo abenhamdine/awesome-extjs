@@ -40,6 +40,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Reanimatter](http://reanimatter.com/tag/ext-js/)
 * [existdissolve.com](http://existdissolve.com/) - A blog with a few articles about extjs
 * [jorgeramon.me](http://jorgeramon.me/tag/extjs-tutorial/) - Some good articles about ExtJS
+* [Blog of Stuart Ashworth](http://www.stuartashworth.com/blog/) - A blog with a focus on articles about Ext JS.
 
 ## Tutorials, examples
 
