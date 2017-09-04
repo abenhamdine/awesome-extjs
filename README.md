@@ -40,6 +40,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Reanimatter](http://reanimatter.com/tag/ext-js/)
 * [existdissolve.com](http://existdissolve.com/) - A blog with a few articles about extjs
 * [jorgeramon.me](http://jorgeramon.me/tag/extjs-tutorial/) - Some good articles about ExtJS
+* [Blog of Stuart Ashworth](http://www.stuartashworth.com/blog/) - A blog with a focus on articles about Ext JS.
 
 ## Tutorials, examples
 
@@ -101,3 +102,4 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Ext JS Application Development Blueprints](https://www.packtpub.com/web-development/ext-js-application-development-blueprints)
 * [Sencha Charts Essentials](https://www.packtpub.com/web-development/sencha-charts-essentials)
 * [Ext JS Essentials](https://www.packtpub.com/web-development/ext-js-essentials)
+* [Ext JS 6: Getting Started](http://www.extjs6gettingstarted.com)
