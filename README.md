@@ -100,3 +100,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Mastering Ext JS 2nd Edition](https://www.packtpub.com/web-development/mastering-ext-js-second-edition)
 * [Ext JS Application Development Blueprints](https://www.packtpub.com/web-development/ext-js-application-development-blueprints)
 * [Sencha Charts Essentials](https://www.packtpub.com/web-development/sencha-charts-essentials)
+
+## Communities
+
+* [Sencha Talk](http://www.senchatalk.com) - A free Slack team for Sencha discussion.
