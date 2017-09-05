@@ -30,5 +30,6 @@ This is an attempt to make a curated list of useful resources for Sencha ExtJS e
 - Avoid superlatives or FUD and otherwise just stick to a reasonable description
 - Do not capitalize description (i.e. avoid "The Tool to End All Tools")
 - English only
+- Use ExtJS to normalize (not Extjs, nor extjs, ExtJs, etc...)
 
 **Thank you for contributing!**
