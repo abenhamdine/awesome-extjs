@@ -41,6 +41,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [existdissolve.com](http://existdissolve.com/) - A blog with a few articles about extjs
 * [jorgeramon.me](http://jorgeramon.me/tag/extjs-tutorial/) - Some good articles about ExtJS
 * [Blog of Stuart Ashworth](http://www.stuartashworth.com/blog/) - A blog with a focus on articles about Ext JS.
+* [Enovision](https://www.enovision.net/ext-js/)
 
 ## Tutorials, examples
 
