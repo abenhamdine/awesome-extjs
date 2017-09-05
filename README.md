@@ -97,6 +97,8 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ## ExtJS service providers
 
+* [SwarmOnline](https://www.swarmonline.com/)
+
 ## Books
 
 * [Mastering Ext JS 2nd Edition](https://www.packtpub.com/web-development/mastering-ext-js-second-edition)
