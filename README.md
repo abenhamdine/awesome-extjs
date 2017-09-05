@@ -88,6 +88,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Lino](https://github.com/lino-framework/lino) - A web application framework using Django and ExtJS
 * [Koala](https://github.com/koala-framework/koala-framework) - Framework and CMS based on Zend Framework and ExtJS
 * [Arbela](https://github.com/walkingtree/arbela) - Rich, Extensible, Customizable, and Configurable IoT-ready Dashboard
+* [Slate](https://github.com/SlateFoundation/slate) - An open-source foundation for schools
 
 ## Commercial Software using ExtJS
 
