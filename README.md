@@ -102,3 +102,4 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Ext JS Application Development Blueprints](https://www.packtpub.com/web-development/ext-js-application-development-blueprints)
 * [Sencha Charts Essentials](https://www.packtpub.com/web-development/sencha-charts-essentials)
 * [Ext JS 6: Getting Started](http://www.extjs6gettingstarted.com)
+* [Ext JS 4 Web Application Development Cookbook](https://www.packtpub.com/web-development/ext-js-4-web-application-development-cookbook)
