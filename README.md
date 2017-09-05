@@ -104,3 +104,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Ext JS Essentials](https://www.packtpub.com/web-development/ext-js-essentials)
 * [Ext JS 6: Getting Started](http://www.extjs6gettingstarted.com)
 * [Ext JS 4 Web Application Development Cookbook](https://www.packtpub.com/web-development/ext-js-4-web-application-development-cookbook)
+
+## Communities
+
+* [Sencha Talk](http://www.senchatalk.com) - A free Slack team for Sencha discussion.
