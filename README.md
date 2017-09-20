@@ -1,6 +1,6 @@
 # Awesome ExtJS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of ExtJS resources.
+Another curated list of ExtJS resources.
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
@@ -31,6 +31,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ## Blogs
 
 * [Sencha Guru](https://sencha.guru/) - A blog from Mitchell Simoens, a developper from Sencha Inc.
+* [Learn From Saki](http://extjs.eu/) - The original extension creator and blogger (now trainer)
 * [Blog of Walking Tree](https://walkingtree.tech/index.php/blog) - Blog of WalkingTree, a service provider for ExtJS
 * [Blog of Steve Drucker](https://druckit.wordpress.com/) - Some articles about ExtJS
 * [Alex'blog](https://abarre.wordpress.com/) - A few articles about ExtJS
@@ -46,6 +47,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ## Tutorials, examples
 
+* [Sencha Adventures](https://github.com/loiane/sencha-adventures) - massive list of Sencha/ExtjS resources in English/Portuese/French/Spanish
 * [ext4all](https://ext4all.com/) - Exjs code snippets
 * [skirtlesden](http://skirtlesden.com/articles/) - Old (2014) but very good articles about ExtJS
 * [senchatutorials](http://senchatutorials.in/) - Step-by-step tutorials for Sencha ExtJS 4.x, 5.x, 6.x and Sencha Touch 2.x
@@ -70,6 +72,15 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Grid autosize column](http://reanimatter.com/2016/03/12/ext-js-grid-plugin-autosizing-columns-to-fit-content/)
 * [Nvd3 bindings](https://github.com/syslogic/extjs-nvd3-charts) - NVD3.js Bindings as Sencha ExtJS Package
 * [Chartsly](https://github.com/walkingtree/chartsly) - Stock Charts package based on Sencha Ext JS & Touch
+* [Ext Gant](https://www.bryntum.com/products/gantt/) (commercial/oem) - Ext Gantt is the leading javascript-based Gantt chart which helps you manage your projects easily in any web application.
+* [Ext Scheduler](https://www.bryntum.com/products/scheduler/) (commercial/oem) - With Ext Scheduler you can schedule pretty much anything with a start and end date.
+* [Ext Calendar](https://www.bryntum.com/products/calendar/) (commercial/oem) (the original extjs calendar) - With our javascript based Calendar component you get a full calendar solution with day view, week view and month view. 
+
+### Testing
+
+* [Siesta](https://www.bryntum.com/products/siesta/) - (free/commercial) - Overview
+Siesta is a JavaScript unit testing tool that can help you test any JavaScript code and also perform testing of the DOM and simulate user interactions. 
+* [RootCause](https://therootcause.io/) (free/commercial) - RootCause provides you with a comprehensive set of tools to monitor and reproduce errors in web sites / applications. Using the built-in recorder feature you’ll know exactly what the user did.
 
 ### Icons, Themes
 
@@ -99,6 +110,8 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ## ExtJS service providers
 
+* [Sencha Devs](https://www.senchadevs.com/) - The official list of services providers (contractors) and developers for hire
+* [Bryntum](https://www.bryntum.com/services/)
 * [SwarmOnline](https://www.swarmonline.com/)
 
 ## Books
@@ -112,4 +125,5 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ## Communities
 
+* [Sencha Forum](http://sencha.com/forum/) - The #1 community for support from community and internal Sencha support staff
 * [Sencha Talk](http://www.senchatalk.com) - A free Slack team for Sencha discussion.
