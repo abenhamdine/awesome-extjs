@@ -43,6 +43,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Blog of Stuart Ashworth](http://www.stuartashworth.com/blog/) - A blog with a focus on articles about Ext JS.
 * [Enovision](https://www.enovision.net/ext-js/)
 * [Dev tricks](https://www.leeboonstra.com/)
+* [Peter Keller.net](http://peterkellner.net/category/extjs/)
 
 ## Tutorials, examples
 
