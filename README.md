@@ -44,6 +44,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Enovision](https://www.enovision.net/ext-js/)
 * [Dev tricks](https://www.leeboonstra.com/)
 * [Peter Keller.net](http://peterkellner.net/category/extjs/)
+* [ExtJS articles on codeproject.com](https://www.codeproject.com/Tags/ExtJS)
 
 ## Tutorials, examples
 
