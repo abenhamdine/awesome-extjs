@@ -93,6 +93,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Koala](https://github.com/koala-framework/koala-framework) - Framework and CMS based on Zend Framework and ExtJS
 * [Arbela](https://github.com/walkingtree/arbela) - Rich, Extensible, Customizable, and Configurable IoT-ready Dashboard
 * [Slate](https://github.com/SlateFoundation/slate) - An open-source foundation for schools
+* [Kitto2](https://github.com/EtheaDev/kitto2) - A tool to build web interfaces with ExtJS 6 and Delphi
 
 ## Commercial Software using ExtJS
 
