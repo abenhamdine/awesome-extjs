@@ -30,7 +30,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ## Blogs
 
-* [Sencha Guru](https://sencha.guru/) - A blog from Mitchell Simoens, a developper from Sencha Inc.
+* [Sencha Guru](https://sencha.guru/) - A blog from Mitchell Simoens, a former developer from Sencha Inc.
 * [Blog of Walking Tree](https://walkingtree.tech/index.php/blog) - Blog of WalkingTree, a service provider for ExtJS
 * [Blog of Steve Drucker](https://druckit.wordpress.com/) - Some articles about ExtJS
 * [Alex'blog](https://abarre.wordpress.com/) - A few articles about ExtJS
