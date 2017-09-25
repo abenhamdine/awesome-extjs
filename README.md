@@ -63,8 +63,8 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 * [extjs-carto](https://github.com/CrestoneDigital/extjs-carto) - Components to interact with Carto map tools
 * [Ext.ux.ColorPicker](https://github.com/sw4/Ext.ux.ColorPicker) - A beautiful colorpicker
-* [Ext.ux.grid.Printer](https://github.com/Arhia/Ext.ux.grid.Printer) - An Extjs 5/6 Component to print grid content
-* [Exportable grid](https://github.com/yorl1n/ext.ExportableGrid) - Wrapper over ExtJs's grid to make grid exportable to xslx format
+* [Ext.ux.grid.Printer](https://github.com/Arhia/Ext.ux.grid.Printer) - An ExtJS 5/6 Component to print grid content
+* [Exportable grid](https://github.com/yorl1n/ext.ExportableGrid) - Wrapper over ExtJS's grid to make grid exportable to xslx format
 * [ExtJS-Grid-PDF-Exporter](https://github.com/shikhirsingh/ExtJS-Grid-PDF-Exporter) - Sample application to export grid content in pdf
 * [DateSlider component for Sencha ExtJS](https://github.com/OhmzTech/extjs-dateslider) - A nice date slider
 * [Ace editor integration](https://github.com/cadorn/ace-extjs)
@@ -72,11 +72,11 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Pdf viewer panel](https://github.com/SunboX/ext_ux_pdf_panel)
 * [Grid autosize column](http://reanimatter.com/2016/03/12/ext-js-grid-plugin-autosizing-columns-to-fit-content/)
 * [Nvd3 bindings](https://github.com/syslogic/extjs-nvd3-charts) - NVD3.js Bindings as Sencha ExtJS Package
-* [Chartsly](https://github.com/walkingtree/chartsly) - Stock Charts package based on Sencha Ext JS & Touch
+* [Chartsly](https://github.com/walkingtree/chartsly) - Stock Charts package based on Sencha ExtJS & Touch
 * [Ext JS MVVM extensions](https://github.com/alexeysolonets/extjs-mvvm-extensions) - Extensions for custom components with a ViewModel
-* [Bryntum Gantt](https://bryntum.com/gantt) - Gantt chart component for Ext JS
-* [Bryntum Scheduler](https://bryntum.com/scheduler) - Scheduler component for Ext JS
-* [Bryntum TaskBoard](https://bryntum.com/taskboard) - Taskboard component for Ext JS
+* [Bryntum Gantt](https://bryntum.com/gantt) - Gantt chart component for ExtJS
+* [Bryntum Scheduler](https://bryntum.com/scheduler) - Scheduler component for ExtJS
+* [Bryntum TaskBoard](https://bryntum.com/taskboard) - Taskboard component for ExtJS
 
 ### Icons, Themes
 
