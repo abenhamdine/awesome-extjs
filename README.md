@@ -45,6 +45,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Dev tricks](https://www.leeboonstra.com/)
 * [Peter Keller.net](http://peterkellner.net/category/extjs/)
 * [ExtJS articles on codeproject.com](https://www.codeproject.com/Tags/ExtJS)
+* [Bryntum blog](https://bryntum.com/blog)
 
 ## Tutorials, examples
 
@@ -73,6 +74,9 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Nvd3 bindings](https://github.com/syslogic/extjs-nvd3-charts) - NVD3.js Bindings as Sencha ExtJS Package
 * [Chartsly](https://github.com/walkingtree/chartsly) - Stock Charts package based on Sencha Ext JS & Touch
 * [Ext JS MVVM extensions](https://github.com/alexeysolonets/extjs-mvvm-extensions) - Extensions for custom components with a ViewModel
+* [Bryntum Gantt](https://bryntum.com/gantt) - Gantt chart component for Ext JS
+* [Bryntum Scheduler](https://bryntum.com/scheduler) - Scheduler component for Ext JS
+* [Bryntum TaskBoard](https://bryntum.com/taskboard) - Taskboard component for Ext JS
 
 ### Icons, Themes
 
