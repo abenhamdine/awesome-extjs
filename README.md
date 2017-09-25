@@ -45,7 +45,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Dev tricks](https://www.leeboonstra.com/)
 * [Peter Keller.net](http://peterkellner.net/category/extjs/)
 * [ExtJS articles on codeproject.com](https://www.codeproject.com/Tags/ExtJS)
-* [Bryntum blog](https://bryntum.com/blog)
+* [Bryntum blog](https://bryntum.com/blog) - Blog of Bryntum.com, a company which provides several advanced components for ExtJS
 
 ## Tutorials, examples
 
