@@ -78,7 +78,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Bryntum Scheduler](https://bryntum.com/scheduler) - Scheduler component for ExtJS
 * [Bryntum TaskBoard](https://bryntum.com/taskboard) - Taskboard component for ExtJS
 * [Ext.ux.button.DateRangePicker](https://github.com/wencywww/Ext.ux.button.DateRangePicker) - Component for selecting date range in ExtJS
-* [Ext.ux.slider.Multi.Tips](https://github.com/wencywww/Ext.ux.button.DateRangePicker) - Override for the ExtJS mulstislider component to show persistent tips over the thumbs
+* [Ext.ux.slider.Multi.Tips](https://github.com/wencywww/Ext.ux.slider.Multi.Tips) - Override for the ExtJS mulstislider component to show persistent tips over the thumbs
 
 ### Icons, Themes
 
