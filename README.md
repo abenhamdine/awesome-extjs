@@ -79,6 +79,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Bryntum TaskBoard](https://bryntum.com/taskboard) - Taskboard component for ExtJS
 * [Ext.ux.button.DateRangePicker](https://github.com/wencywww/Ext.ux.button.DateRangePicker) - Component for selecting date range in ExtJS
 * [Ext.ux.slider.Multi.Tips](https://github.com/wencywww/Ext.ux.slider.Multi.Tips) - Override for the ExtJS mulstislider component to show persistent tips over the thumbs
+* [ActionColumnRowEditing](https://github.com/maltempi/extjs-action-column-row-editing) - A plugin based on Ext.grid.plugin.RowEditing changing the default floating buttons to an action column.
 
 ### Icons, Themes
 
@@ -101,6 +102,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Arbela](https://github.com/walkingtree/arbela) - Rich, Extensible, Customizable, and Configurable IoT-ready Dashboard
 * [Slate](https://github.com/SlateFoundation/slate) - An open-source foundation for schools
 * [Kitto2](https://github.com/EtheaDev/kitto2) - A tool to build web interfaces with ExtJS 6 and Delphi
+* [Proxmox VE](https://www.proxmox.com/en/proxmox-ve) - An open-source server virtualization environment.
 
 ## Commercial Software using ExtJS
 
