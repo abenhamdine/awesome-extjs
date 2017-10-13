@@ -46,7 +46,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Peter Keller.net](http://peterkellner.net/category/extjs/)
 * [ExtJS articles on codeproject.com](https://www.codeproject.com/Tags/ExtJS)
 * [Bryntum blog](https://bryntum.com/blog) - Blog of Bryntum.com, a company which provides several advanced components for ExtJS
-* [Wemerson Januario's blog](http://wemersonjanuario.com.br) - Blog by a Javascript developer (ExtJs, Laravel)
+* [Wemerson Januario's blog](http://wemersonjanuario.com.br) - Blog by a Javascript developer (ExtJS, Laravel)
 
 ## Tutorials, examples
 
@@ -88,7 +88,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ### Packages
 
-* [modern-locale](https://github.com/wemersonjanuario/modern-locale) - A locale package for Ext JS modern toolkit
+* [modern-locale](https://github.com/wemersonjanuario/modern-locale) - A locale package for ExtJS modern toolkit
 
 ### Integration of ExtJS Components with other frameworks
 
@@ -129,4 +129,4 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 * [Sencha Talk](http://www.senchatalk.com) - A free Slack team for Sencha discussion.
 * [Sencha Brazil Slack Team](http://slack.extjs.com.br/) - A free Slack team for Sencha discussion in Portuguese/Braziliam.
-* [Ext JS Brazil Forum](http://extjs.com.br/) - A Braziliam Sencha ExtJS forum
+* [ExtJS Brazil Forum](http://extjs.com.br/) - A Braziliam Sencha ExtJS forum
