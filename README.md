@@ -46,6 +46,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Peter Keller.net](http://peterkellner.net/category/extjs/)
 * [ExtJS articles on codeproject.com](https://www.codeproject.com/Tags/ExtJS)
 * [Bryntum blog](https://bryntum.com/blog) - Blog of Bryntum.com, a company which provides several advanced components for ExtJS
+* [Wemerson Januario's blog](http://wemersonjanuario.com.br) - Blog by a Javascript developer (ExtJS, Laravel)
 
 ## Tutorials, examples
 
@@ -86,6 +87,10 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [ExtJS-Wheather-Icons](https://github.com/RichardStyles/ExtJS-Weather-Icons) - ExtJS package to use [Weather icons](https://erikflowers.github.io/weather-icons/)
 * [ExtJS-Material-Icons](https://github.com/RichardStyles/ExtJS-Material-Icons) - Allow use of Material Design Iconic Font Icons in an ExtJS project. (Google icons + extended community icons)
 
+### Packages
+
+* [modern-locale](https://github.com/wemersonjanuario/modern-locale) - A locale package for ExtJS modern toolkit
+
 ### Integration of ExtJS Components with other frameworks
 
 * [Connector to Angular2](https://github.com/mgusmano/angular2-extjs)
@@ -125,3 +130,5 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ## Communities
 
 * [Sencha Talk](http://www.senchatalk.com) - A free Slack team for Sencha discussion.
+* [Sencha Brazil Slack Team](http://slack.extjs.com.br/) - A free Slack team for Sencha discussion in Portuguese/Braziliam.
+* [ExtJS Brazil Forum](http://extjs.com.br/) - A Braziliam Sencha ExtJS forum
