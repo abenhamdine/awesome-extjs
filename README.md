@@ -47,12 +47,14 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [ExtJS articles on codeproject.com](https://www.codeproject.com/Tags/ExtJS)
 * [Bryntum blog](https://bryntum.com/blog) - Blog of Bryntum.com, a company which provides several advanced components for ExtJS
 * [Wemerson Januario's blog](http://wemersonjanuario.com.br) - Blog by a Javascript developer (ExtJS, Laravel)
+* [Sencha Adventures](https://github.com/loiane/sencha-adventures) - A collection of resources to learn Sencha frameworks by @loiane
 
 ## Tutorials, examples
 
 * [ext4all](https://ext4all.com/) - Exjs code snippets
 * [skirtlesden](http://skirtlesden.com/articles/) - Old (2014) but very good articles about ExtJS
 * [senchatutorials](http://senchatutorials.in/) - Step-by-step tutorials for Sencha ExtJS 4.x, 5.x, 6.x and Sencha Touch 2.x
+* [loiane.training](https://loiane.training/course/fundamentos-ext-js-4/) - ExtJS4 training (and beyond) - Portuguese only
 
 ## Extensions & components
 
