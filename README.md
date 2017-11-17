@@ -61,6 +61,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ### Direct connectors
 * [nodejs.extdirect](https://github.com/jurisv/nodejs.extdirect) - A nodejs implementation of Ext Direct protocol
 * [ExtDirect connector for Java](https://github.com/ralscha/extdirectspring) - Implementation of the Ext Direct protocol with Java and Spring
+* [Ext Direct ASP.NET](https://github.com/elishnevsky/ext-direct-mvc) - Ext Direct protocol for ASP.NET
 
 ### Components, ux
 
