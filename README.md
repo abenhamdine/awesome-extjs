@@ -47,6 +47,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Bryntum blog](https://bryntum.com/blog) - Blog of Bryntum.com, a company which provides several advanced components for ExtJS
 * [Wemerson Januario's blog](http://wemersonjanuario.com.br) - Blog by a Javascript developer (ExtJS, Laravel)
 * [Sencha Adventures](https://github.com/loiane/sencha-adventures) - A collection of resources to learn Sencha frameworks by @loiane
+* [What is ExtJS](http://whatisextjs.com/) - A blog with some interesting ExtJS examples and code snippets
 
 ## Tutorials, examples
 
