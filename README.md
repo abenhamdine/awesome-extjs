@@ -120,9 +120,10 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ### Desktop apps built with [Electron](https://electron.atom.io/)
 * [Sencha Architect](https://www.sencha.com/products/architect/), [Sencha Test](https://www.sencha.com/products/test/), [Sencha Themer](https://www.sencha.com/products/themer/), [Sencha Inspector](https://www.sencha.com/products/inspector/) - Are build with various versions of ExtJS framework
 
-## ExtJS service providers
+## ExtJS service providers/official partners
 
 * [SwarmOnline](https://www.swarmonline.com/)
+* [Jnesis](https://jnesis.com/fr/index.html) - Sencha Select Partner for France
 
 ## Books
 
