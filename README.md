@@ -88,6 +88,10 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [ActivityMonitor](https://github.com/Arhia/ExtJS-ActivityMonitor) - A class to track user activity
 * [DateTimePicker](https://github.com/gportela85/DateTimeField) - An useful widget to pick date and time
 
+### Test tools
+
+* [karma-extjs](https://github.com/Unit4/karma-extjs) - A tool to use karma to run unit tests on ExtJS applications
+
 ### Icons, Themes
 
 * [ExtJS-Wheather-Icons](https://github.com/RichardStyles/ExtJS-Weather-Icons) - ExtJS package to use [Weather icons](https://erikflowers.github.io/weather-icons/)
