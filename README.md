@@ -90,6 +90,8 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ### Test tools
 
+* [sencha-test](https://www.sencha.com/products/test/) - (commercial) Offical tool for testing ExtJS Apps
+* [siesta](https://www.bryntum.com/products/siesta/) - (commercial/free) JavaScript based UI testing tool with direct ExtJS support
 * [karma-extjs](https://github.com/Unit4/karma-extjs) - A tool to use karma to run unit tests on ExtJS applications
 
 ### Icons, Themes
