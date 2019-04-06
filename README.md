@@ -6,7 +6,8 @@ A curated list of ExtJS resources.
 
 Contributions are welcomes. Add links through [pull requests](https://github.com/abenhamdine/awesome-extjs/pulls) or create an [issue](https://github.com/abenhamdine/awesome-extjs/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md)
 
-## Last commercial version of ExtJS : 6.6.0
+## Last commercial version of ExtJS : 6.7.0
+## Last CE version of ExtJS : 6.7.0
 ## Last GPL version of ExtJS : 6.2.0
 
 ## Contents
@@ -21,7 +22,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ## Official resources
 
-* [Sencha ExtJS docs 6.6.0](http://docs.sencha.com/extjs/6.6.0/index.html) - Official documentation of current version.
+* [Sencha ExtJS docs 6.7.0](http://docs.sencha.com/extjs/6.7.0/index.html) - Official documentation of current version.
 * [Sencha blog](https://www.sencha.com/blog/category/sencha-ext-js) - Official Sencha blog for ExtJS posts
 * [Sencha forums](https://www.sencha.com/forum) - Forums for all sencha products
 * [Sencha examples on Github](https://github.com/sencha-extjs-examples) - Examples on Github, different from examples in official docs
