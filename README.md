@@ -49,6 +49,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Wemerson Januario's blog](http://wemersonjanuario.com.br) - Blog by a Javascript developer (ExtJS, Laravel)
 * [Sencha Adventures](https://github.com/loiane/sencha-adventures) - A collection of resources to learn Sencha frameworks by @loiane
 * [What is ExtJS](http://whatisextjs.com/) - A blog with some interesting ExtJS examples and code snippets
+* [Coding Ideas](http://www.coding-ideas.de/category/blog/extjs/) - A blog with articles about several frameworks and some nice articles about ExtJS
 
 ## Tutorials, examples
 
