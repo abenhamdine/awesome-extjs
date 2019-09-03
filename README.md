@@ -6,7 +6,7 @@ A curated list of ExtJS resources.
 
 Contributions are welcomes. Add links through [pull requests](https://github.com/abenhamdine/awesome-extjs/pulls) or create an [issue](https://github.com/abenhamdine/awesome-extjs/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md)
 
-## Last commercial version of ExtJS : 6.7.0
+## Last commercial version of ExtJS : 7.0.0
 ## Last CE version of ExtJS : 6.7.0
 ## Last GPL version of ExtJS : 6.2.0
 
