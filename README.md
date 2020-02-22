@@ -87,7 +87,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Bryntum Calendar](https://www.bryntum.com/products/calendar-for-extjs/) - Calendar component for ExtJS
 * [Bryntum TaskBoard](https://www.bryntum.com/products/taskboard-for-extjs/) - Taskboard component for ExtJS
 * [Ext.ux.button.DateRangePicker](https://github.com/wencywww/Ext.ux.button.DateRangePicker) - Component for selecting date range in ExtJS
-* [Ext.ux.slider.Multi.Tips](https://github.com/wencywww/Ext.ux.slider.Multi.Tips) - Override for the ExtJS mulstislider component to show persistent tips over the thumbs
+* [Ext.ux.slider.Multi.Tips](https://github.com/wencywww/Ext.ux.slider.Multi.Tips) - Override for the ExtJS multislider component to show persistent tips over the thumbs
 * [ActionColumnRowEditing](https://github.com/maltempi/extjs-action-column-row-editing) - A plugin based on Ext.grid.plugin.RowEditing changing the default floating buttons to an action column.
 * [ActivityMonitor](https://github.com/Arhia/ExtJS-ActivityMonitor) - A class to track user activity
 * [DateTimePicker](https://github.com/gportela85/DateTimeField) - An useful widget to pick date and time
