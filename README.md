@@ -124,6 +124,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Slate](https://github.com/SlateFoundation/slate) - An open-source foundation for schools
 * [Kitto2](https://github.com/EtheaDev/kitto2) - A tool to build web interfaces with ExtJS 6 and Delphi
 * [Proxmox VE](https://www.proxmox.com/en/proxmox-ve) - An open-source server virtualization environment.
+* [Kopano](https://kopano.io/) - Open source collaboration tools
 
 ## Commercial Software using ExtJS
 
