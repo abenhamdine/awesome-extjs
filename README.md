@@ -82,9 +82,10 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Nvd3 bindings](https://github.com/syslogic/extjs-nvd3-charts) - NVD3.js Bindings as Sencha ExtJS Package
 * [Chartsly](https://github.com/walkingtree/chartsly) - Stock Charts package based on Sencha ExtJS & Touch
 * [Ext JS MVVM extensions](https://github.com/alexeysolonets/extjs-mvvm-extensions) - Extensions for custom components with a ViewModel
-* [Bryntum Gantt](https://bryntum.com/gantt) - Gantt chart component for ExtJS
-* [Bryntum Scheduler](https://bryntum.com/scheduler) - Scheduler component for ExtJS
-* [Bryntum TaskBoard](https://bryntum.com/taskboard) - Taskboard component for ExtJS
+* [Bryntum Gantt](https://www.bryntum.com/products/gantt-for-extjs/) - Gantt chart component for ExtJS
+* [Bryntum Scheduler](https://www.bryntum.com/products/scheduler-for-extjs/) - Scheduler component for ExtJS
+* [Bryntum Calendar](https://www.bryntum.com/products/calendar-for-extjs/) - Calendar component for ExtJS
+* [Bryntum TaskBoard](https://www.bryntum.com/products/taskboard-for-extjs/) - Taskboard component for ExtJS
 * [Ext.ux.button.DateRangePicker](https://github.com/wencywww/Ext.ux.button.DateRangePicker) - Component for selecting date range in ExtJS
 * [Ext.ux.slider.Multi.Tips](https://github.com/wencywww/Ext.ux.slider.Multi.Tips) - Override for the ExtJS mulstislider component to show persistent tips over the thumbs
 * [ActionColumnRowEditing](https://github.com/maltempi/extjs-action-column-row-editing) - A plugin based on Ext.grid.plugin.RowEditing changing the default floating buttons to an action column.
