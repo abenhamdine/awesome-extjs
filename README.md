@@ -26,6 +26,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Sencha blog](https://www.sencha.com/blog/category/sencha-ext-js) - Official Sencha blog for ExtJS posts
 * [Sencha forums](https://www.sencha.com/forum) - Forums for all sencha products
 * [Sencha examples on Github](https://github.com/sencha-extjs-examples) - Examples on Github, different from examples in official docs
+* [Sencha Webinars](https://www.sencha.com/resources/webinars/) - (free) Official webinars from Sencha on many ExtJS related topics
 * [ExtReact](https://www.sencha.com/products/extreact/#app) - ExtJS components for React
 * [Link to CE Edition](https://www.sencha.com/products/extjs/communityedition/) - A link to the form to fill to obtain the CE edition
 * [Link to GPL Version](https://www.sencha.com/legal/gpl/) - A link to the form to fill to obtain the GPL version
