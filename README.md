@@ -31,7 +31,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [ExtReact](https://www.sencha.com/products/extreact/#app) - ExtJS components for React
 * [Link to CE Edition](https://www.sencha.com/products/extjs/communityedition/) - A link to the form to fill to obtain the CE edition
 * [Link to GPL Version](https://www.sencha.com/legal/gpl/) - A link to signup page to obtain the GPL version
-* [Npm Access] (https://sencha.myget.org/) - Link to NPM Sencha packages (NPM access is available through login)
+* [Npm Access](https://sencha.myget.org/) - Link to NPM Sencha packages (NPM access is available through login)
 ## Blogs
 
 * [Blog of Walking Tree](https://walkingtree.tech/index.php/blog) - Blog of WalkingTree, a service provider for ExtJS
