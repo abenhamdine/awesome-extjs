@@ -25,7 +25,6 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Sencha ExtJS docs 7.5.0](http://docs.sencha.com/extjs/7.5.0/index.html) - Official documentation of current version.
 * [Sencha Resource Center](https://www.sencha.com/resources/) - Examples, Vídeos, Webinars, Datasheets and Whitepapers
 * [Sencha blog](https://www.sencha.com/blog/category/sencha-ext-js) - Official Sencha blog for ExtJS posts
-* [Sencha forums](https://www.sencha.com/forum) - Forums for all sencha products
 * [Sencha examples on Github](https://github.com/sencha-extjs-examples) - Examples on Github, different from examples in official docs
 * [Sencha Webinars](https://www.sencha.com/resources/webinars/) - (free) Official webinars from Sencha on many ExtJS related topics
 * [ExtReact](https://www.sencha.com/products/extreact/#app) - ExtJS components for React
@@ -55,6 +54,8 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [What is ExtJS](http://whatisextjs.com/) - A blog with some interesting ExtJS examples and code snippets
 * [Coding Ideas](http://www.coding-ideas.de/category/blog/extjs/) - A blog with articles about several frameworks and some nice articles about ExtJS
 * [Jorge Ramon](https://jorgeramon.me/extjs-tutorials/) - Some useful tutorials for ExtJS 5 and 6
+* [Learn From Saki](http://extjs.eu/) - Site of an ExtJS developer and author of several extension
+* [Sencha Adventures](https://github.com/loiane/sencha-adventures) - A list of Sencha/ExtjS resources in English/Portuese/French/Spanish  
 
 ## Tutorials, examples
 
