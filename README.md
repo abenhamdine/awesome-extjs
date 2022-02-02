@@ -1,7 +1,4 @@
-# Awesome ExtJS 
-<a href="https://awesome.re">
-		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
-</a>
+# Awesome ExtJS [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of ExtJS resources.
 
@@ -12,6 +9,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Official resources](#official-resources)
 - [Blogs](#blogs)
 - [Tutorials, examples](#tutorials-examples)
+- [Extensions & Components](#extensions-&-components)
 - [Open sources projects using ExtJS](#open-sources-projects-using-extjs)
 - [Commercial Software using ExtJS](#commercial-software-using-extjs)
 - [ExtJS service providers](#extjs-service-providers)
@@ -63,7 +61,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ## Extensions & components
 
 ### Direct connectors
-- [nodejs.extdirect](https://github.com/jurisv/nodejs.extdirect) - A Node.js implementation of Ext Direct protocol.
+- [Node.js Ext Direct](https://github.com/jurisv/nodejs.extdirect) - A Node.js implementation of Ext Direct protocol.
 - [ExtDirect connector for Java](https://github.com/ralscha/extdirectspring) - Implementation of the Ext Direct protocol with Java and Spring.
 - [Ext Direct ASP.NET](https://github.com/elishnevsky/ext-direct-mvc) - Ext Direct protocol for ASP.NET.
 - [Ext Direct PHP](https://github.com/teqneers/ext-direct) - Ext Direct protocol for PHP.
@@ -139,7 +137,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ## ExtJS service providers/official partners
 
 - [SwarmOnline](https://www.swarmonline.com/)
-- [Jnesis](https://jnesis.com/fr/index.html) - Sencha Select Partner for France
+- [Jnesis](https://jnesis.com/fr/index.html) - Sencha Select Partner for France.
 
 ## Books
 
