@@ -31,7 +31,8 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [ExtReact](https://www.sencha.com/products/extreact/#app) - ExtJS components for React
 * [Link to CE Edition](https://www.sencha.com/products/extjs/communityedition/) - A link to the form to fill to obtain the CE edition
 * [Link to GPL Version](https://www.sencha.com/legal/gpl/) - A link to signup page to obtain the GPL version
-* [Npm Access](https://sencha.myget.org/) - Link to NPM Sencha packages (NPM access is available through login)
+* [Npm Access](https://sencha.myget.org/) - Link to NPM Sencha packages (NPM access is available through login)  
+
 ## Blogs
 
 * [Blog of Walking Tree](https://walkingtree.tech/index.php/blog) - Blog of WalkingTree, a service provider for ExtJS
@@ -53,6 +54,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Sencha Adventures](https://github.com/loiane/sencha-adventures) - A collection of resources to learn Sencha frameworks by @loiane
 * [What is ExtJS](http://whatisextjs.com/) - A blog with some interesting ExtJS examples and code snippets
 * [Coding Ideas](http://www.coding-ideas.de/category/blog/extjs/) - A blog with articles about several frameworks and some nice articles about ExtJS
+* [Jorge Ramon](https://jorgeramon.me/extjs-tutorials/) - Some useful tutorials for ExtJS 5 and 6
 
 ## Tutorials, examples
 
