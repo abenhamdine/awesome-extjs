@@ -14,6 +14,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Commercial Software using ExtJS](#commercial-software-using-extjs)
 - [ExtJS service providers](#extjs-service-providers)
 - [Books](#books)
+- [Communities](#communities)
 
 ## Official resources
 
