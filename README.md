@@ -5,15 +5,13 @@
 
 A curated list of ExtJS resources.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
-
 Contributions are welcomes. Add links through [pull requests](https://github.com/abenhamdine/awesome-extjs/pulls) or create an [issue](https://github.com/abenhamdine/awesome-extjs/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md)
 
 ## Contents
 
 - [Official resources](#official-resources)
 - [Blogs](#blogs)
-- [Tutorials, examples](#tutorials,-examples)
+- [Tutorials, examples](#tutorials-examples)
 - [Open sources projects using ExtJS](#open-sources-projects-using-extjs)
 - [Commercial Software using ExtJS](#commercial-software-using-extjs)
 - [ExtJS service providers](#extjs-service-providers)
@@ -24,7 +22,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Sencha ExtJS docs 7.5.0](http://docs.sencha.com/extjs/7.5.0/index.html) - Official documentation of current version.
 - [Sencha Resource Center](https://www.sencha.com/resources/) - Examples, Vídeos, Webinars, Datasheets and Whitepapers.
 - [Sencha blog](https://www.sencha.com/blog/category/sencha-ext-js) - Official Sencha blog for ExtJS posts.
-- [Sencha examples on Github](https://github.com/sencha-extjs-examples) - Examples on Github, different from examples in official docs.
+- [Sencha examples on GitHub](https://github.com/sencha-extjs-examples) - Examples on GitHub, different from examples in official docs.
 - [Sencha Webinars](https://www.sencha.com/resources/webinars/) - (free) Official webinars from Sencha on many ExtJS related topics.
 - [ExtReact](https://www.sencha.com/products/extreact/#app) - ExtJS components for React.
 - [Link to CE Edition](https://www.sencha.com/products/extjs/communityedition/) - A link to the form to fill to obtain the CE edition.
@@ -37,7 +35,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Blog of Steve Drucker](https://druckit.wordpress.com/) - Some articles about ExtJS.
 - [Alex'blog](https://abarre.wordpress.com/) - A few articles about ExtJS.
 - [Blog of Vladimir Popa](http://vadimpopa.com/) - A blog with some good articles about ExtJS.
-- [Anton Fisher's notes](https://antonfisher.com/) - Blog by a javascript developer (ExtJS, nodejs, bash).
+- [Anton Fisher's notes](https://antonfisher.com/) - Blog by a JavaScript developer (ExtJS, Node.js, bash).
 - [Blog of Modus Create](http://moduscreate.com/category/sencha/) - Articles on ExtJS.
 - [Reanimatter](http://reanimatter.com/tag/ext-js/) - Articles on ExtJS.
 - [existdissolve.com](http://existdissolve.com/) - A blog with a few articles about ExtJS.
@@ -48,13 +46,12 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Peter Keller.net](http://peterkellner.net/category/extjs/) - Articles on ExtJS.
 - [ExtJS articles on codeproject.com](https://www.codeproject.com/Tags/ExtJS) - Articles on ExtJS.
 - [Bryntum blog](https://bryntum.com/blog) - Blog of Bryntum.com, a company which provides several advanced components for ExtJS.
-- [Wemerson Januario's blog](http://wemersonjanuario.com.br) - Blog by a Javascript developer (ExtJS, Laravel).
+- [Wemerson Januario's blog](http://wemersonjanuario.com.br) - Blog by a JavaScript developer (ExtJS, Laravel).
 - [Sencha Adventures](https://github.com/loiane/sencha-adventures) - A collection of resources to learn Sencha frameworks by @loiane.
 - [What is ExtJS](http://whatisextjs.com/) - A blog with some interesting ExtJS examples and code snippets.
 - [Coding Ideas](http://www.coding-ideas.de/category/blog/extjs/) - A blog with articles about several frameworks and some nice articles about ExtJS.
 - [Jorge Ramon](https://jorgeramon.me/extjs-tutorials/) - Some useful tutorials for ExtJS 5 and 6.
 - [Learn From Saki](http://extjs.eu/) - Site of an ExtJS developer and author of several extensions.
-- [Sencha Adventures](https://github.com/loiane/sencha-adventures) - A list of Sencha/ExtjS resources in English/Portuguese/French/Spanish.
 
 ## Tutorials, examples
 
@@ -66,7 +63,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ## Extensions & components
 
 ### Direct connectors
-- [nodejs.extdirect](https://github.com/jurisv/nodejs.extdirect) - A nodejs implementation of Ext Direct protocol.
+- [nodejs.extdirect](https://github.com/jurisv/nodejs.extdirect) - A Node.js implementation of Ext Direct protocol.
 - [ExtDirect connector for Java](https://github.com/ralscha/extdirectspring) - Implementation of the Ext Direct protocol with Java and Spring.
 - [Ext Direct ASP.NET](https://github.com/elishnevsky/ext-direct-mvc) - Ext Direct protocol for ASP.NET.
 - [Ext Direct PHP](https://github.com/teqneers/ext-direct) - Ext Direct protocol for PHP.
@@ -136,7 +133,6 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 ### Desktop apps built with [Electron](https://electron.atom.io/) and ExtJS
 
 - [Sencha Architect](https://www.sencha.com/products/architect/)
-- [Sencha Test](https://www.sencha.com/products/test/)
 - [Sencha Themer](https://www.sencha.com/products/themer/)
 - [Sencha Inspector](https://www.sencha.com/products/inspector/)
 
