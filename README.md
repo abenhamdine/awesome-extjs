@@ -9,7 +9,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Official resources](#official-resources)
 - [Blogs](#blogs)
 - [Tutorials, examples](#tutorials-examples)
-- [Extensions & Components](#extensions-&-components)
+- [Extensions, components](#extensions-components)
 - [Open sources projects using ExtJS](#open-sources-projects-using-extjs)
 - [Commercial Software using ExtJS](#commercial-software-using-extjs)
 - [ExtJS service providers](#extjs-service-providers)
@@ -58,7 +58,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [senchatutorials](http://senchatutorials.in/) - Step-by-step tutorials for Sencha ExtJS 4.x, 5.x, 6.x and Sencha Touch 2.x.
  [loiane.training](https://loiane.training/course/fundamentos-ext-js-4/) - ExtJS4 training (and beyond) - Portuguese only.
 
-## Extensions & components
+## Extensions, components
 
 ### Direct connectors
 - [Node.js Ext Direct](https://github.com/jurisv/nodejs.extdirect) - A Node.js implementation of Ext Direct protocol.
