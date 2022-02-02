@@ -134,7 +134,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Sencha Themer](https://www.sencha.com/products/themer/)
 - [Sencha Inspector](https://www.sencha.com/products/inspector/)
 
-## ExtJS service providers/official partners
+## ExtJS service providers
 
 - [SwarmOnline](https://www.swarmonline.com/)
 - [Jnesis](https://jnesis.com/fr/index.html) - Sencha Select Partner for France.
