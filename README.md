@@ -38,7 +38,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Blog of Modus Create](http://moduscreate.com/category/sencha/) - Articles on ExtJS.
 - [Reanimatter](http://reanimatter.com/tag/ext-js/) - Articles on ExtJS.
 - [existdissolve.com](http://existdissolve.com/) - A blog with a few articles about ExtJS.
-- [jorgeramon.me](http://jorgeramon.me/tag/extjs-tutorial/) - Some good articles about ExtJS.
+- [Jorge Ramon](http://jorgeramon.me/tag/extjs-tutorial/) - Some useful tutorials for ExtJS 5 and 6.
 - [Blog of Stuart Ashworth](http://www.stuartashworth.com/blog/) - A blog with a focus on articles about Ext JS.
 - [Enovision](https://www.enovision.net/ext-js/) - Articles on ExtJS.
 - [Dev tricks](https://www.leeboonstra.com/) - Articles on ExtJS.
@@ -49,7 +49,6 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Sencha Adventures](https://github.com/loiane/sencha-adventures) - A collection of resources to learn Sencha frameworks by @loiane.
 - [What is ExtJS](http://whatisextjs.com/) - A blog with some interesting ExtJS examples and code snippets.
 - [Coding Ideas](http://www.coding-ideas.de/category/blog/extjs/) - A blog with articles about several frameworks and some nice articles about ExtJS.
-- [Jorge Ramon](https://jorgeramon.me/extjs-tutorials/) - Some useful tutorials for ExtJS 5 and 6.
 - [Learn From Saki](http://extjs.eu/) - Site of an ExtJS developer and author of several extensions.
 
 ## Tutorials, examples
