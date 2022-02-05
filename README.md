@@ -35,7 +35,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Alex'blog](https://abarre.wordpress.com/) - A few articles about ExtJS.
 - [Blog of Vladimir Popa](http://vadimpopa.com/) - A blog with some good articles about ExtJS.
 - [Anton Fisher's notes](https://antonfisher.com/) - Blog by a JavaScript developer (ExtJS, Node.js, bash).
-- [Blog of Modus Create](http://moduscreate.com/category/sencha/) - Articles on ExtJS.
+- [Blog of Modus Create](https://moduscreate.com/insights/blog/) - Blog of Modus Create, a former Service Provider for Sencha, with some interesting articles on ExtJS.
 - [Reanimatter](http://reanimatter.com/tag/ext-js/) - Articles on ExtJS.
 - [existdissolve.com](http://existdissolve.com/) - A blog with a few articles about ExtJS.
 - [Jorge Ramon](http://jorgeramon.me/tag/extjs-tutorial/) - Some useful tutorials for ExtJS 5 and 6.
