@@ -41,7 +41,6 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Jorge Ramon](http://jorgeramon.me/tag/extjs-tutorial/) - Some useful tutorials for ExtJS 5 and 6.
 - [Blog of Stuart Ashworth](http://www.stuartashworth.com/blog/) - A blog with a focus on articles about Ext JS.
 - [Enovision](https://www.enovision.net/ext-js/) - Articles on ExtJS.
-- [Dev tricks](https://www.leeboonstra.com/) - Articles on ExtJS.
 - [Peter Keller.net](http://peterkellner.net/category/extjs/) - Articles on ExtJS.
 - [ExtJS articles on codeproject.com](https://www.codeproject.com/Tags/ExtJS) - Articles on ExtJS.
 - [Bryntum blog](https://bryntum.com/blog) - Blog of Bryntum.com, a company which provides several advanced components for ExtJS.
