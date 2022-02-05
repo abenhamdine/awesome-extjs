@@ -18,7 +18,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ## Official resources
 
-- [Sencha ExtJS docs 7.5.0](http://docs.sencha.com/extjs/7.5.0/index.html) - Official documentation of current version.
+- [Sencha ExtJS docs](https://docs.sencha.com/extjs/) - Official documentation of last version.
 - [Sencha Resource Center](https://www.sencha.com/resources/) - Examples, Vídeos, Webinars, Datasheets and Whitepapers.
 - [Sencha blog](https://www.sencha.com/blog/category/sencha-ext-js) - Official Sencha blog for ExtJS posts.
 - [Sencha examples on GitHub](https://github.com/sencha-extjs-examples) - Examples on GitHub, different from examples in official docs.
