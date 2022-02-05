@@ -39,9 +39,9 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [Reanimatter](http://reanimatter.com/tag/ext-js/) - Articles on ExtJS.
 - [existdissolve.com](http://existdissolve.com/) - A blog with a few articles about ExtJS.
 - [Jorge Ramon](http://jorgeramon.me/tag/extjs-tutorial/) - Some useful tutorials for ExtJS 5 and 6.
-- [Blog of Stuart Ashworth](http://www.stuartashworth.com/blog/) - A blog with a focus on articles about Ext JS.
-- [Enovision](https://www.enovision.net/ext-js/) - Articles on ExtJS.
-- [Peter Keller.net](http://peterkellner.net/category/extjs/) - Articles on ExtJS.
+- [Blog of Stuart Ashworth](http://www.stuartashworth.com/blog/)
+- [Enovision](https://www.enovision.net/blog)
+- [Peter Keller.net](https://peterkellner.net/posts)
 - [ExtJS articles on codeproject.com](https://www.codeproject.com/Tags/ExtJS) - Articles on ExtJS.
 - [Bryntum blog](https://bryntum.com/blog) - Blog of Bryntum.com, a company which provides several advanced components for ExtJS.
 - [Wemerson Januario's blog](http://wemersonjanuario.com.br) - Blog by a JavaScript developer (ExtJS, Laravel).
