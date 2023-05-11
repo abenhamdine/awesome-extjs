@@ -58,6 +58,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [senchatutorials](http://senchatutorials.in/) - Step-by-step tutorials for Sencha ExtJS 4.x, 5.x, 6.x and Sencha Touch 2.x.
 - [loiane.training](https://loiane.training/course/fundamentos-ext-js-4/) - ExtJS4 training (and beyond) - Portuguese only.
 - [Ext Mail - Example Mail Client](https://github.com/Stuart98/ext-mail) - An example email client application (classic & modern) built during Sencha Café webinar series.
+- [ExtDb - Sencha ExtJS tips, tricks, and recipes](https://github.com/da-baranov/ext-db) - Various ExtJS notes, tools, utilities, and extensions
 
 ## Extensions, components
 
