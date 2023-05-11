@@ -92,6 +92,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 - [ActivityMonitor](https://github.com/Arhia/ExtJS-ActivityMonitor) - A class to track user activity.
 - [DateTimePicker](https://github.com/gportela85/DateTimeField) - An useful widget to pick date and time.
 - [Mz Solutions Grid plugins](https://www.mzsolutions.eu/grid-plugins.html) - Professional plugins for ExtJS grid.
+- [Wursta Tree Combobox](https://github.com/wursta/extjs/tree/master/app/form/field) - Tree combo component
 
 ### Test tools
 
